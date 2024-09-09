@@ -1,1 +1,1 @@
-# la-s-curit-de-VMware-vCenter
+VMware vCenter est une plateforme centrale utilisée pour la gestion des environnements de virtualisation basés sur VMware vSphere. Elle permet aux administrateurs de gérer plusieurs machines virtuelles (VM), hôtes ESXi, réseaux et configurations de stockage à partir d'une seule interface. La sécurité du vCenter est essentielle pour protéger l'infrastructure virtuelle d'une organisation, car il constitue un point central d'administration et peut représenter une cible privilégiée pour les cyberattaques.
